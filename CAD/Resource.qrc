@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bringtofront.png</file>
+        <file>images/choose.png</file>
+        <file>images/drawCircle.png</file>
+        <file>images/clear.png</file>
+        <file>images/colorpicker.png</file>
+        <file>images/curve.png</file>
+        <file>images/cut.png</file>
+        <file>images/delete.png</file>
+        <file>images/derive.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/fill.png</file>
+        <file>images/line.png</file>
+        <file>images/paintworks.png</file>
+        <file>images/polygon.png</file>
+        <file>images/save.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/sendtoback.png</file>
+        <file>images/toload.png</file>
+        <file>images/pointer.png</file>
+        <file>images/drawRect.png</file>
+        <file>images/redo.png</file>
+        <file>images/undo.png</file>
+    </qresource>
+</RCC>
